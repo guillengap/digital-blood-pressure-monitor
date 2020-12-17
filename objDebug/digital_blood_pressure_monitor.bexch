@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__digital_blood_pressure_monitor.o
+[PROJECT FILES]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\digital_blood_pressure_monitor.gpr
+20201217190632
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32f429_discovery\stm32f429_discovery_full.gpr
+20191213151850
+[BOUND OBJECT FILES]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\bmp_fonts.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\hershey_fonts.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\bitmapped_drawing.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\last_chance_handler.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\lcd_std_out.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\digital_blood_pressure_monitor.o
+[GENERATED SOURCE FILES]
+b__digital_blood_pressure_monitor.ads
+b__digital_blood_pressure_monitor.adb
+b__digital_blood_pressure_monitor.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\digital_blood_pressure_monitor\objDebug\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\examples\shared\common\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32f429_discovery\obj\full_lib_Debug\
+-LC:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f429disco\adalib\
+-static
+-static-libgcc
+C:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f429disco\adalib\libgnarl.a
+C:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f429disco\adalib\libgnat.a
